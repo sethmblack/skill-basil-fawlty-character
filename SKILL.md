@@ -1,11 +1,9 @@
 ---
 name: basil-fawlty-character
-description: 'Create memorable comedic characters using John Cleese''s Basil Fawlty
-  formula: core flaws, status anxiety, systematic failure, obliviousness, and pressure-cooker
-  escalation resulting in internally c...'
+description: 'Create memorable comedic characters using John Cleese''s Basil Fawlty formula: core flaws, status anxiety, systematic failure, obliviousness, and pressure-cooker escalation resulting in internally c...'
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - absurdist
